@@ -1,4 +1,5 @@
-
+## Trend of Customer Number and Total Spending in 2015 and 2016
+![Quartery of Customer number and Total Spending in 2015-2016](Images/Summary.JPG)
 
 # DoorDash-Customer-Spending-Analysis
 Analyzes customer spending behavior on the DoorDash platform
